@@ -1,0 +1,24 @@
+{
+  "name": "bxts-editor",
+  "description": "Rich text editor developed with Vue.js",
+  "main": "index.js",
+  "authors": [
+    "boxtricksys.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Rich",
+    "text",
+    "editor",
+    "react",
+    "ui"
+  ],
+  "homepage": "https://github.com/carlos-porras/bxts-editor",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
